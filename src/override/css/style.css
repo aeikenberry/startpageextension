@@ -184,3 +184,11 @@ input:focus {
 	outline: none;
 	width: 30%;
 }
+
+img.logo {
+	max-height: 200px;
+    max-width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: auto;
+}
