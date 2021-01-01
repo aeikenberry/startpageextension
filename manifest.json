@@ -11,6 +11,6 @@
   },
   "default_locale": "en",
   "chrome_url_overrides": {
-    "newtab": "src/override/override.html"
+    "newtab": "index.html"
   }
 }
