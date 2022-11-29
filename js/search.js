@@ -28,7 +28,7 @@ function search(query) {
 				query.replace(' ', '%20'), '_self');
 		break;
 		default:
-			window.open('https://duckduckgo.com/' +
+			window.open('https://google.com/' +
 				query.replace(' ', '%20'), '_self');
 	}
 }
